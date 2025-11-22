@@ -40,3 +40,16 @@ Once the program starts, you will see a menu with 3 options. Here is how to test
 3.  Exit (Option 3):
     * Select 3 to close the application.
 
+Screenshots:
+<img width="1898" height="1301" alt="Screenshot 2025-11-22 183445" src="https://github.com/user-attachments/assets/8fea0b03-142e-416c-a58c-bea4c63e0101" />
+<img width="1886" height="1663" alt="Screenshot 2025-11-22 183511" src="https://github.com/user-attachments/assets/f09f8bd2-ffb1-4b06-a3ab-b576268c92ab" />
+<img width="1883" height="1651" alt="Screenshot 2025-11-22 183528" src="https://github.com/user-attachments/assets/2e7e5a55-6e13-4b26-aa7d-696a505db3d5" />
+<img width="1928" height="1616" alt="Screenshot 2025-11-22 183543" src="https://github.com/user-attachments/assets/86874986-e449-4eb7-9c99-f8bb917f1517" />
+<img width="1944" height="1581" alt="Screenshot 2025-11-22 183721" src="https://github.com/user-attachments/assets/32c6b4e0-2d28-448a-9653-d77ba9bc0d9b" />
+<img width="1652" height="1560" alt="Screenshot 2025-11-22 183813" src="https://github.com/user-attachments/assets/7fd77340-e65c-4aba-9c3c-b9bf638c3dfb" />
+
+
+
+
+
+
